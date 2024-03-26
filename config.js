@@ -13,34 +13,34 @@ global.confirmCode = ""
 
 //• ↳𝑷𝑶𝑵 𝑳𝑶𝑺 𝑵𝑼𝑴𝑬𝑹𝑶𝑺 𝑸𝑼𝑬 𝑸𝑼𝑰𝑬𝑹𝑨𝑺
 global.owner = [
- ['573012482597', '👑 𝗖𝗿𝗲𝗮𝗱𝗼𝗿 ⚡️', true],
- ['5217294888993', '𝗢𝘄𝗻𝗲𝗿 📖', true],
- ['5492266613038'],
- ['51935499065'],
- ['5215610314499'],
- ['51902050745']]
+ ['51940777986', '👑 𝗖𝗿𝗲𝗮𝗱𝗼𝗿 ⚡️', true],
+ ['51910877277', '𝗢𝘄𝗻𝗲𝗿 📖', true],
+ ['51954507582'],
+ ['51954507582'],
+ ['51954507582'],
+ ['51954507582']]
 
 //• ↳𝑨𝑮𝑹𝑬𝑮𝑨𝑻𝑬 𝑺𝑰 𝑬𝑹𝑬𝑺 𝑶𝑾𝑵𝑬𝑹
 global.contactos = [
-["573012482597", '𝗗𝗶𝗲𝗴𝗼 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 ⚡️', 1],
-["5217294888993", '𝗢𝘄𝗻𝗲𝗿 📖', 1],
-["5492266613038", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 🍧', 1],
-["573106909511", '𝗦𝗼𝗽𝗼𝗿𝘁𝗲 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🌹', 1]]
+["51940777986", 'Yuly 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 ⚡️', 1],
+["51910877277", '𝗢𝘄𝗻𝗲𝗿 📖', 1],
+["51961470464", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 🍧', 1],
+["51961470464", '𝗦𝗼𝗽𝗼𝗿𝘁𝗲 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🌹', 1]]
 
 
-global.suittag = ['573012482597'];
-global.prems = ['573218138672'];
+global.suittag = ['51940777986'];
+global.prems = ['51940777986'];
 
 global.lenguajeSK = es //idioma de sakurabot
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 🍁
 global.packname = '𝙎𝙖𝙠𝙪𝙧𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌸';
-global.author = '𝖣𝗂𝖾𝗀𝗈 ⚡️';
+global.author = 'Yuly ⚡️';
 global.wm = 'Sakura : Bot 🌹';
 global.sk = '𝗦𝖺𝗄𝗎𝗋𝖺 : 𝗕𝗈𝗍 - 𝗟𝗂𝗍𝖾';
 global.titulowm = '𝗦𝖺𝗄𝗎𝗋𝖺 : 𝗕𝗈𝗍';
-global.titulowm2 = `𝘿𝙞𝙚𝙜𝙤 𝙊𝙛𝙞𝙘𝙞𝙖𝙡`
-global.igfg = 'Diego Oficial';
+global.titulowm2 = `𝙔𝙪𝙡𝙮 𝙊𝙛𝙞𝙘𝙞𝙖𝙡`
+global.igfg = 'Yuly Oficial';
 global.vs = '1.0.7';
 
 //• ↳ ◜𝑴𝑺𝑮 𝑫𝑬 𝑬𝑺𝑷𝑬𝑹𝑨◞ • 🈸
@@ -100,7 +100,7 @@ global.wm2 = `${dia} ${fecha}\nSakuritaBot`;
 global.gt = 'SakuraBot';
 global.mysticbot = 'SakuraBot';
 global.mysticbot = 'https://github.com/diegojadibot/SakuraBotLite-MD';
-global.nomorown = '573012482694';
+global.nomorown = '51954507582';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
